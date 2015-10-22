@@ -122,7 +122,7 @@ $sampleArray = ['firstKey'  => 'firstValue',
 ```
 
 Классы, расширяющие другие классы или реализующие интерфейсы, должны объявлять свои зависимости на той же строке, если возможно.
-     ```
+```
 class SampleClass extends FooAbstract implements BarInterface
  {
  }
